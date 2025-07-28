@@ -1,3 +1,8 @@
+**Information**
+<br>
+
+
+
 THIS REPO ALLOWS FOR A CHANNEL TO INTERACT WITH THEIR TWITCH CHAT AND PLAY GAMES
 
 1. Visit https://twitchtokengenerator.com/ and generate a token that has chat:read permissions.
