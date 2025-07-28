@@ -11,6 +11,11 @@ As most 3D games use raw mouse input to determine the position to face the playe
 ## Overview
 Using this remote access tool requires some minor set up to use, these steps are provided below. Within the twitchConnection.py file, you will need to modify some information to properly connect to the desired channel.
 
+## Requirements
+To download the required libraries:
+
+pip install -r requirements.txt
+
 ## Steps
 **1. Visit https://twitchtokengenerator.com/ and generate a token that has chat:read permissions.**
 
